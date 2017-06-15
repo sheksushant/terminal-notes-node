@@ -1,4 +1,6 @@
-A terminal note taking app made with nodeJS.
+## Terminal Notes Node
+
+###### A terminal note taking app made with nodeJS.
 Functions in The APP : 
 Add Note
 Read Note
@@ -8,18 +10,18 @@ List all Notes
 Download the Files of the project.
 
 Navigate to terminal-notes-node-master folder..
-
-cd ~/terminal-notes-node-master
-
+```
+  cd ~/terminal-notes-node-master
+```
 Install Dependencies :
-
-npm install
-
+```
+ npm install
+```
 know the commands you can use :
-
-node app.js --help
-
-
+```
+ node app.js --help
+```
 to add a note : 
-
-node app.js add -t="title" -b="note body"
+```
+ node app.js add -t="title" -b="note body"
+```
